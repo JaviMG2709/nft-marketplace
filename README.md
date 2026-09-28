@@ -1,8 +1,8 @@
-# Blockchain Accelerator NFT Marketplace
+# NFT Marketplace — Fixed-Price ERC-721 Trading with Fees
 
 [English](README.md) | [Español](README.es.md)
 
-Blockchain Accelerator NFT Marketplace is a non-custodial ERC-721 marketplace built with Solidity and Foundry. NFT owners can create fixed-price listings, buyers can purchase them with ETH, and the marketplace collects fees from both sides of each transaction.
+NFT Marketplace is a Solidity learning project built with Foundry. It is a non-custodial marketplace where NFT owners can create fixed-price ERC-721 listings, buyers can purchase them with ETH, and the marketplace collects fees from sellers and buyers.
 
 ## Features
 
